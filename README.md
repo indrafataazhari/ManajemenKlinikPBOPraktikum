@@ -246,7 +246,7 @@ Beberapa ide untuk pengembangan:
 - [ ] Dashboard analytics
 
 ## Link Youtube
-
+- https://youtu.be/fIZR5HNRodc 
 ## Kelompok 7
 
 **Nama Kita**
